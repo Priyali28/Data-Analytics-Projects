@@ -287,5 +287,3 @@ SELECT AVG(capacity) FROM Classroom;
 SELECT instructor_name AS advisor_name FROM Instructor_info
 	WHERE instructor_ID IN (SELECT instructor_ID FROM Student_info);
 
-
-	--END of HW3--
