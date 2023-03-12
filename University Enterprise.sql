@@ -1,11 +1,9 @@
 
 --Submitted By-
 
---Priyali Tambe (667738794)
---Raymond Sutanto (674387992)
---Hareesha Thamtam (658041156)
+--Priyali Tambe
 
----HW3- DATABASE for University Enterprise---
+---DATABASE for University Enterprise---
 
 
 --Step 1: Create table - Department_info--
